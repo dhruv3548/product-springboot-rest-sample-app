@@ -1,0 +1,1 @@
+This is sample spring boot project build for product utility. It uses postgreSQL databse nad RESTful web services.
